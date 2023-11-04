@@ -1,0 +1,8 @@
+{
+	"scripts": {
+    "dev": "browser-sync public -w --open 'ui'"
+  },
+	"devDependencies": {
+		"browser-sync": "^2.29.3"
+	}
+}
